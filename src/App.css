@@ -1,0 +1,52 @@
+.photo-result {
+  width: 100%;
+  height: auto;
+}
+
+/*Google logo colors*/
+.g-blue {
+  color: #4285F4;
+}
+
+.o-red {
+  color: #DB4437;
+}
+
+.o-yellow {
+  color: #F4B400;
+}
+
+.l-green {
+  color: #0F9D58;
+}
+
+.e-red {
+  display: inline-block;
+}
+
+.logo-main {
+  margin-top: 5%;
+}
+
+.logo-title span {
+  font-size: 6rem;
+}
+
+.navbar-blur {
+  background-color: rgba(255, 255, 255, 0.8); /* Light background with some transparency */
+  backdrop-filter: blur(10px); /* Blur effect */
+  -webkit-backdrop-filter: blur(10px); /* For Safari support */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Optional: adds a subtle bottom border */
+}
+
+.logo-pointer {
+  cursor: pointer;
+}
+
+.footer-div {
+  bottom: 0;
+}
+
+.search {
+  margin-bottom: 150px;
+}
